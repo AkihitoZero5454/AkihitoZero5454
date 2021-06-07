@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Japanese
 - 💞️ I’m looking to collaborate on ... Emulation
-- 📫 How to reach me ... tdenny2424@hotmail.com
+- 📫 How to reach me ... https://github.com/AkihitoZero5454/AkihitoZero5454
 
 <!---
 AkihitoZero5454/AkihitoZero5454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
